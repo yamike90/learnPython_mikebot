@@ -35,4 +35,3 @@ MikeBot - это бот для Telegram, созданный с целью обу
 ..code-block:: text
 
     python3.py
-
